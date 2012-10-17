@@ -1,0 +1,6 @@
+GitMagic: www-cs-students.stanford.edu/~blynn/gitmagic/intl/de/index.html
+A Visual Git Reference: marklodato.github.com/visual-git-guide/index-en.html
+Git screencas:		www.ralfebert.de/blog/tools/git_screencast/
+Eclips Plugin Egit
+http://www.codeschool.com/
+gitimmersion.com
